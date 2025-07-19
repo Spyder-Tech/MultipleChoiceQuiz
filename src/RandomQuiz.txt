@@ -1,0 +1,34 @@
+Q: What is the capital city of France?
+A: Madrid
+B: Paris
+C: Rome
+D: Berlin
+Answer: B
+
+Q: Which element has the chemical symbol 'O'?
+A: Gold
+B: Oxygen
+C: Osmium
+D: Oxide
+Answer: B
+
+Q: Who wrote the play "Romeo and Juliet"?
+A: Charles Dickens
+B: William Shakespeare
+C: Mark Twain
+D: Jane Austen
+Answer: B
+
+Q: What is the largest planet in our Solar System?
+A: Earth
+B: Jupiter
+C: Saturn
+D: Neptune
+Answer: B
+
+Q: Which year did the World War II end?
+A: 1945
+B: 1939
+C: 1918
+D: 1960
+Answer: A
